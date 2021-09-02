@@ -5,3 +5,4 @@ C=[1 0]
 Ab = inv(T)*A*T
 Bb = inv(T)*B
 Cb =C*T
+#test
